@@ -1,0 +1,15 @@
+/* .coin {
+  text-align: center;
+} */
+.item {
+  text-align: center;
+  margin: 1em;
+  padding: 1em;
+  float: left;
+}
+img {
+  width: 20px;
+}
+li {
+  list-style: none;
+}
